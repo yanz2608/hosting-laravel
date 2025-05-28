@@ -1,3 +1,5 @@
+FROM php:8.2-fpm
+
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
     libzip-dev unzip curl git libpng-dev libonig-dev libxml2-dev \
