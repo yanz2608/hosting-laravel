@@ -16,5 +16,5 @@
       <button type="submit" class="btn btn-primary">Sign in</button>
     </form>
     <div class="dropdown-divider"></div>
-    <a class="dropdown-item" href="#">REGISTER</a>
+    <a class="dropdown-item">REGISTER</a>
   </div>
